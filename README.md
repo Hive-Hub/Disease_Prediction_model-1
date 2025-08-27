@@ -40,6 +40,6 @@ This project is built as part of the **Save Lives with AI Bootcamp**.
 Clone the repo and install dependencies:  
 
 ```bash
-git clone https://github.com/yourusername/disease-prediction-toolkit.git
-cd disease-prediction-toolkit
+git clone https://github.com/Hive-Hub/Disease_Prediction_model-1
+cd Disease_Prediction_model-1
 pip install -r requirements.txt
